@@ -5,7 +5,7 @@ date: "Friday, June 19, 2015"
 output: html_document
 ---
 
-NOTE: see [README.md](http://linktofile) for instructions on recreating the tidydata.txt file 
+NOTE: see [README.md](https://github.com/SGandia/TidyData/blob/master/README.md) for instructions on recreating the tidydata.txt file 
 
 # DATA DICTIONARY - tidydata.txt
 
